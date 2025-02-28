@@ -2,6 +2,8 @@
 Group Members: Omar Spiller Hernandez, Scott Lam, Evan Carey, David Gil
 Date: 28 February 2025
 
+Link to video: https://youtu.be/dSjX2RsxU9g?feature=shared
+
 ## Introduction
 The online game platform known as STEAM hosts over 97,000 games, making it a 
 highly competitive environment for developers. Success on STEAM depends on 
